@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(41, 40, 40);
+}
+section {
+    display: flex;
+    width: 672px;
+    margin: 0 0 0 185px;
+    padding-bottom: 110px;
+}
+div {
+    color: white;
+    margin: auto;
+    font-size: 28px;
+}
+nav ul {   
+    display: flex;
+    text-align: right;
+    justify-content: flex-end;
+    font-size: 16px;
+    
+}
+ul {
+    list-style-type: none;  
+}
+li {
+    padding: 10px;
+}
+a {
+    color: white;
+}
+.example-1:hover {
+
+}
+header {
+    color: white;
+    text-align: center;
+}
+button {
+    background-color: white;
+    color: black;
+    padding: 12px 20px 12px 20px;
+    border-radius: 7px;
+    font-size: 15px;
+}
+footer {
+    margin: 120px 0 0 0;
+    text-align: center;
+}
+.example {
+    font-size: 8px;
+}
